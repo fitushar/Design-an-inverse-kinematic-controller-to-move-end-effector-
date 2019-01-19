@@ -1,4 +1,6 @@
 # Design-an-inverse-kinematic-controller-to-move-end-effector-
+Design an inverse kinematic controller to move end-effector. This work is done as a coursework for the 2nd semester of MAIA in Introduction to Robotics course.
+
 # Design an inverse kinematic controller to move end-effector. This work is done as a coursework for the 2nd semester of MAIA in Introduction to Robotics course.
 ![Presentation Intro](https://github.com/fitushar/Design-an-inverse-kinematic-controller-to-move-end-effector-/blob/master/Images/Robotics_Presentation.png)
 The task was to design an Inverse Kinematic controller to move the end-effector from the position
